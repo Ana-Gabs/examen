@@ -1,0 +1,8 @@
+{
+  "name": "Examen App",
+  "version": "1.0.0",
+  "description": "Manifest for the Examen application.",
+  "author": "Your Name",
+  "main": "index.js",
+  "license": "MIT"
+}
