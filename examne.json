@@ -1,8 +1,20 @@
 {
-  "name": "Examen App",
-  "version": "1.0.0",
-  "description": "Manifest for the Examen application.",
-  "author": "Your Name",
-  "main": "index.js",
-  "license": "MIT"
+  "name": "Mi Universidad",
+  "short_name": "Universidad",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF90",
+  "icons": [
+    {
+      "src": "icons/uteq-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/uteq-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
